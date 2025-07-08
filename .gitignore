@@ -1,7 +1,0 @@
-# Node
-node_modules/
-.env
-
-#react
-frontend/node_modules/
-backen/node_modules/
